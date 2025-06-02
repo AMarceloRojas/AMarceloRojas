@@ -1,4 +1,4 @@
-# Hey, I'm Anthonny! 👋
+# Hey, I'm Anthonny! 
 
 ![Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner (2)](https://github.com/user-attachments/assets/8e55b2a3-9cc5-4961-982e-74f6d9cfba00)
 
@@ -7,19 +7,19 @@
 [![Gmail Badge](https://img.shields.io/badge/-Anhtonny.marcelo.rojas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:Anthonny.marcelo.rojas@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/AMarceloRojas?label=Follow&style=social)](https://github.com/AMarceloRojas)
 
-✨ I'm a **Full Stack Developer** based in **Lima, Perú**  
-🌐 Visit my [personal website]()  
-💼 Previously worked at [Yobel SCM](https://www.yobelscm.biz), creating automation tools using Apps Script, AppSheet, and more.
+🍵 I'm a **Full Stack Developer** based in **Lima, Perú**  
+🌏 Visit my [personal website]()  
+👨‍💻 Previously worked at [Yobel SCM](https://www.yobelscm.biz), creating automation tools using Apps Script, AppSheet, and more.
 
 ---
 
-## 💻 Tech Stack
+## 🔧 Tech Stack
 
 `.js`, `.ts`, `.html`, `.css`, `.vue`, `.react`, `.node.js`, `.express`, `.mongo`, `.sql`, `.gas`
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 
 ---
