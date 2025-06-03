@@ -4,7 +4,7 @@
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-AnthonnyMarcelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthonny-marcelo-rojas-b66b22311/)](https://www.linkedin.com/in/anthonny-marcelo-rojas-b66b22311/)
-[![Gmail Badge](https://img.shields.io/badge/-Anhtonny.marcelo.rojas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:Anthonny.marcelo.rojas@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Anthonny.marcelo.rojas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:Anthonny.marcelo.rojas@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/AMarceloRojas?label=Follow&style=social)](https://github.com/AMarceloRojas)
 
 🍵 I'm a **Full Stack Developer** based in **Lima, Perú**  
