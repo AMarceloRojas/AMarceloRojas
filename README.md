@@ -8,7 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/AMarceloRojas?label=Follow&style=social)](https://github.com/AMarceloRojas)
 
 🍵 I'm a **Full Stack Developer** based in **Lima, Perú**  
-☕ Visit my [personal website](https://portafolio-anthonnymarcelo.netlify.app)  
+☕ Visit my [personal website](https://amarcelorojas.github.io/AMarceloRojas-/)  
 👨‍💻 Previously worked at [Yobel SCM](https://www.yobelscm.biz), creating automation tools using Apps Script, AppSheet, and more.
 
 ---
